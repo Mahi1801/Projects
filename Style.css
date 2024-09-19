@@ -309,7 +309,7 @@ ul a{
     margin-top: 10px;
 }
 ul a:hover{
-    text-decoration: solid;
+    text-decoration: underline;
 }
 ul p{
     font-weight: 600;
